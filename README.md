@@ -1,4 +1,4 @@
-# Simple Note Taking App
+# Simple Note Taking React App
 
 ## Objective
 
