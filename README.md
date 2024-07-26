@@ -85,6 +85,8 @@ The "Simple Note Taking App" allows users to:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-![Updatebook](https://github.com/user-attachments/assets/bec7dfd4-51e0-46a1-940e-97ea3c429ac0)
-![AllBooks](https://github.com/user-attachments/assets/71a7c2f6-5fb5-4727-b751-00f0c370cb19)
-![AddBook](https://github.com/user-attachments/assets/a7dbf521-252e-42d3-9eb7-890f5dddea12)
+![SearchNote](https://github.com/user-attachments/assets/50ef0635-2ed9-43a9-9056-dad36d2e0518)
+![HomeNote2](https://github.com/user-attachments/assets/a9681511-fcbb-404f-b932-9200298bb82d)
+![homeNote](https://github.com/user-attachments/assets/fc918e15-c70f-4761-a1c5-7bc3aba8697a)
+![AddNote](https://github.com/user-attachments/assets/4551ad7b-6ae3-44ea-a9d9-71a84801d718)
+
