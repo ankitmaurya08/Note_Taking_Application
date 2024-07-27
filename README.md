@@ -1,5 +1,10 @@
 # Simple Note Taking React App
 
+### Deployed Application
+
+The application is deployed and accessible at:
+[https://note-taking-app-751bb7.netlify.app/](https://note-taking-app-751bb7.netlify.app/)
+
 ## Objective
 
 Develop a simplified web application for taking notes that utilizes local storage for data persistence. This application demonstrates front-end development skills including CRUD operations, pagination, and responsive design.
@@ -83,8 +88,8 @@ The "Simple Note Taking App" allows users to:
    http://localhost:3000
    ```
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ![SearchNote](https://github.com/user-attachments/assets/50ef0635-2ed9-43a9-9056-dad36d2e0518)
 ![homeNote](https://github.com/user-attachments/assets/fc918e15-c70f-4761-a1c5-7bc3aba8697a)
 ![AddNote](https://github.com/user-attachments/assets/4551ad7b-6ae3-44ea-a9d9-71a84801d718)
